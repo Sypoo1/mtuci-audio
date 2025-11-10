@@ -1,0 +1,11 @@
+index,text,synthesis_time_s,peak_gpu_mem_bytes,end_gpu_mem_bytes,cpu_rss_bytes_start,cpu_rss_bytes_end,cpu_cpu_percent,model_param_count,sample_rate,mos_rating
+1,Tom has a blue kite. It flies high in the sky. He smiles as the wind pulls the string.,5.668,0,0,2242965504,2883379200,22.7,144431684,16000,2
+2,Emma sits on the sofa with a warm blanket. She drinks tea and reads a book. The room is quiet and soft.,6.521,0,0,2883379200,2925531136,23.1,144431684,16000,2.5
+3,A small bird sits on the tree. It sings a happy song. Mia listens and claps her hands.,5.430,0,0,2925531136,2925723648,25.0,144431684,16000,2.5
+4,I ride my red bike to the park. The road is smooth and long. I stop to watch the ducks in the pond.,6.580,0,0,2925723648,2925723648,27.1,144431684,16000,2.5
+5,"Cars move fast on the street. People walk with bags and talk on phones. The lights turn green, and buses start to go.",7.364,0,0,2925723648,2961084416,20.8,144431684,16000,2.5
+6,Ben pours milk into a cup. He drinks it slowly and smiles. The milk is cold and sweet.,5.622,0,0,2961084416,2972393472,25.2,144431684,16000,2.5
+7,A gray cat sleeps on the chair. Its fur is soft and warm. It dreams and moves its paws.,6.117,0,0,2972393472,3005419520,22.4,144431684,16000,2.5
+8,Snow falls from the sky. The ground turns white. Kids laugh and make a big snowman.,4.976,0,0,3005419520,3005423616,28.8,144431684,16000,2
+9,My mom has a small garden. She grows flowers and green beans. Every morning she waters them with care.,6.321,0,0,3005423616,3100692480,23.7,144431684,16000,3
+10,Leo walks to school early. The air is cool and fresh. He waves to his friend at the corner.,5.721,0,0,3100692480,3070328832,26.5,144431684,16000,2.5
